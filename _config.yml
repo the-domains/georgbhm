@@ -1,0 +1,28 @@
+name: Georgs
+favicon: null
+layout_spectrum: 0.4040589288342744
+typography_spectrum: 0.27350450796075165
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.2897513129282743
+  lightness: 0.2523414297029376
+  saturation: 0.67246801010333
+  rhythmicContrast: 0.4300744435749948
+purpose: []
